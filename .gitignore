@@ -1,0 +1,13 @@
+*.exe
+*.out
+*.log
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+*.vscode/
+*.idea/
+*.env
+vendor/
+bin/
+build/
